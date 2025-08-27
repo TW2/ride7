@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     prerender: {
       concurrency: 500,
       interval: 100,
+      failOnError: false,
     },
     experimental: {
       database: true
