@@ -5,7 +5,7 @@ export default defineNuxtConfig({
 
   nitro: {
     prerender: {
-      concurrency: 250,
+      concurrency: 500,
       interval: 100,
     },
     experimental: {
