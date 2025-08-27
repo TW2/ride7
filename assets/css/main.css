@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@font-face {
+    font-family: "DUMERO";
+    src: url("../fonts/DUMERO.otf") format("opentype");
+}
