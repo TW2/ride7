@@ -4,6 +4,10 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   nitro: {
+    prerender: {
+      concurrency: 250,
+      interval: 100,
+    },
     experimental: {
       database: true
     },
