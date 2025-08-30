@@ -5,3 +5,8 @@
     font-family: "DUMERO";
     src: url("../fonts/DUMERO.otf") format("opentype");
 }
+
+@font-face {
+    font-family: "Maloney";
+    src: url("../fonts/Maloney.woff") format("woff");
+}

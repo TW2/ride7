@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f73c99e-78d4-44ca-bd14-5dc2890fa849" name="Changes" comment="Work" />
+    <list default="true" id="0f73c99e-78d4-44ca-bd14-5dc2890fa849" name="Changes" comment="Work">
+      <change afterPath="$PROJECT_DIR$/app/pages/z_console.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Maloney.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/admin/console/kamijou-releases.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/admin/console/kuroko-nouvelles.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +32,9 @@
     &quot;accountId&quot;: &quot;1c44b906-5490-447a-bb89-c0b8b9ce3cb1&quot;
   }
 }</component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/.output/server/package.json" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -41,6 +51,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/Dev/WebSites/_Gitea_ChuushinNuxtVue/v7/ride7/public/images/admin/console",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,9 +60,18 @@
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "D:\\Dev\\WebSites\\_Gitea_ChuushinNuxtVue\\v7\\ride7\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dev\WebSites\_Gitea_ChuushinNuxtVue\v7\ride7\public\images\admin\console" />
+      <recent name="D:\Dev\WebSites\_Gitea_ChuushinNuxtVue\v7\ride7\assets\fonts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dev\WebSites\_Gitea_ChuushinNuxtVue\v7\ride7\app" />
       <recent name="D:\Dev\WebSites\_Gitea_ChuushinNuxtVue\v7\ride7" />
@@ -73,7 +93,11 @@
       <updated>1756308509128</updated>
       <workItem from="1756308510225" duration="1102000" />
       <workItem from="1756309673118" duration="22000" />
-      <workItem from="1756310891951" duration="2056000" />
+      <workItem from="1756310891951" duration="5077000" />
+      <workItem from="1756391077613" duration="10652000" />
+      <workItem from="1756472612301" duration="330000" />
+      <workItem from="1756504101742" duration="926000" />
+      <workItem from="1756514770656" duration="3535000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -139,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756312566013</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Work">
+      <option name="closed" value="true" />
+      <created>1756313417536</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756313417536</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Work">
+      <option name="closed" value="true" />
+      <created>1756313463219</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756313463219</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
